@@ -1,13 +1,13 @@
 const staticDevCoffee = "dev-oche-sushi-v1";
 const assets = [
-  "/",
-  "/index.html",
-  "/css/style.css",
-  "/js/app.js",
-  "/images/hot.jpg",
-  "/images/niguiri.jpg",
-  "/images/skin.jpg",
-  "/images/uramki.webp"
+  "",
+  "index.html",
+  "css/style.css",
+  "js/app.js",
+  "images/hot.jpg",
+  "images/niguiri.jpg",
+  "images/skin.jpg",
+  "images/uramki.webp"
 ];
 
 self.addEventListener("install", installEvent => {
